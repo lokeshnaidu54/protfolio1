@@ -1,0 +1,29 @@
+#home{
+    height: 820px;
+}
+.heading{
+    font-size: 1.7rem;
+}
+/*About*/
+#pic img{
+    width: 300px
+}
+#intr h2{
+    font-size: 0.5rem;
+}
+/*porfolio*/
+.gallery img{
+    width: 275px;
+    height: 240px;
+    margin: 10px;
+}
+/*contact*/
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
